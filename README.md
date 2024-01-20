@@ -1,6 +1,6 @@
 # Hello World, I am Mohan (rmknan) 👋
 
-I am an embedded engineer with interests in embedded robotics and would love to dive deep into the domain. I am a fresher in the craft, open source seems like the best place to learn new skills as you implement them.
+I am an embedded engineer with an interest in embedded robotics and machine learning, would love to dive deep into the domain. I am a fresher in the craft, open source seems like the best place to learn new skills as you implement them.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
